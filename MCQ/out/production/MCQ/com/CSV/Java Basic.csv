@@ -1,0 +1,10 @@
+1. In java, jar stands for_____;A. Java Archive Runner;B. Java Application Resource;C. Java Archive;D. None of the choiches;C. Java Archive
+2. What application we used to make Java?;A. Intellij IDEA;B. Sketch;C. Corel Draw;D. AutoCAD;A. Intellij IDEA
+"3. How to print ""Hello World""?";"A. System.out.println (""Hello World"")";"B. Sout(""Hello World"")";"C. System.out(""Hello World"")";"D. cout = ""Hello World""";"A. System.out.println (""Hello World"")"
+4. What line creates a scanner object for you to use?;A. Input = Scanner(System.in);B. Scanner input = new Scanner(System.in);C. Scanner input;D. Input= System.in;B. Scanner input = new Scanner(System.in)
+5. What is the result of the following expression? 1 + 3 / 2 – 7 % 3;A. 1;B. 2;C. 5;D. 4.5;A. 1
+"6. What is the result of the following expression? “12"" + 1 + 2";"A. ""1212""";"B. ""15""";"C. ""123""";D. 15;"A. ""1212"""
+7. What is the syntax for declaring a static method?;A. public static void myMethod() {};B. public static myMethod();"C. public static class myMethod();";D. public class myMethod() {};A. public static void myMethod() {}
+8. JDK stand for?;A. Java Developer Kids;B. Java Debugger Kit;C. Java Decorate Kit;D. Java Development Kit;D. Java Development Kit
+9. Which of the following is not a Java features?;A. Dynamic;B. Architecture Neutral;C. Use of pointers;D. Object-oriented;C. Use of pointers
+10. Which of the following option leads to the portability and security of Java?;A. Bytecode is executed by JVM;B. The applet makes the Java code secure and portable;C. Use of exception handling;D. Dynamic binding between objects;A. Bytecode is executed by JVM

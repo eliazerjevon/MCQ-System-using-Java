@@ -1,0 +1,10 @@
+1. What is HTML?;A. Hard Text Markup Language;B. Hyper Text Markup Language;C. Hello Text More Language;D. Hypen Text Markup Language;B. Hyper Text Markup Language
+2. What we type first whe we make HTML document?;A. <!DOCTYPE html>;B. <html>;"C. <html lang=""eng"">";D. <head>;A. <!DOCTYPE html>
+3. Head tag is used for?;A. Writing header;B. Writing all the parapraph;C. insert picture;D. Including css;D. Including css
+4. How many types of heading does an HTML contain?;A. 1;B. 3;C. 6;D. 9;C. 6
+5. What application we used for make HTML document?;A. Intellij IDEA;B. Visual Studio Code;C. Eclipse;D. Adobe Photshop;B. Visual Studio Code
+6. How to see  the result of HTML Document?;A. Open in Web Browser;B. Using Terminal;C. Open in Command Prompt;D. Open in VS code;A. Open in Web Browser
+7. What tags we used to make ordered list?;A. <ul></ul>;B. <ol></ol>;C. <li></li>;D. <ol-li></ol-li>;B. <ol></ol>
+8. Which are have no close tag?;A. <br>;B. <p>;C. <h1>;D. A and B Correct;A. <br>
+9. How to insert a copyright symbol on a browser page?;A.&nbsp;B. &#169;C. &copy;D. B and C Correct;D. B and C Correct
+10. What tags we used to make comment?;A. <!-- -->;B. //;C. /;D. * *;A. <!-- -->
